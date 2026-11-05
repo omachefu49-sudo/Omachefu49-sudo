@@ -18,7 +18,6 @@
 
 
 
-### Data Analyst | Business Intelligence | Data-Driven Decision Making
 
 I am a business-oriented data analyst passionate about transforming data into actionable insights that improve business performance, optimize operations, and support strategic decision-making.
 
