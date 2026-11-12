@@ -53,18 +53,6 @@ I focus on understanding business problems, investigating root causes, and commu
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Domain |
-|---|---|
-| HMO Claims & Revenue Leakage Analysis | Healthcare |
-| Hospital Operational Efficiency | Healthcare |
-| Nigerian Banking Sector Performance | Finance |
-| Customer Acquisition & Marketing Analysis | Commercial |
-| Inventory Optimization | Operations |
-
----
-
 ## 🤝 Let's Connect
 
 Interested in collaborating on data analytics, business intelligence, and data-driven problem-solving.
